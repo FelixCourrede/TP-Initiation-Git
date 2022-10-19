@@ -1,4 +1,2 @@
 # TP-Initiation-Git
-Test
-test 2
-Test 3
+TEST1TEST2
